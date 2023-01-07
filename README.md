@@ -1,14 +1,11 @@
-@@ -1,2 +1,37 @@
-#  template_portfolio
-Template para portfólio de Data Science
-[![ autor ](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https:/ /img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![ Licença GPLv3 ](https:// img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![ contribuições são bem-vindas ](https://img.shields.io /badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-#Juan  Matheus Nunes Bezerra
-<sub> *Analista de Dados* <\sub>
+# Juan Matheus Nunes Bezerra Lima
+<sub> *Analista de Dados* </sub>
 
 Sou Tecnólogo em Análise e desenvolvimento de sistemas formado pela UNIP e profissional de análise de dados com 3 anos de mercado.
 
