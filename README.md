@@ -38,4 +38,7 @@ Disposição para esclarecer suas dúvidas!
 ** Links: **
 * [LinkedIn](https://www.linkedin.com/in/juan-matheus-nunes-b33b89196)
 
+## Projetos:
+* **Como criar um gráfico de Linha:**
+https://github.com/Juan-Matheus/JuanMatheus/blob/main/Gr%C3%A1ficos_de_Linhas.ipynb
 ---
