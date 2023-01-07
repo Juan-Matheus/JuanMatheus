@@ -36,8 +36,6 @@ Disposição para esclarecer suas dúvidas!
 
 
 ** Links: **
-* [ Linkedin ](linkedin.com/in/juan-matheus-nunes-b33b89196)
-
-
+* [LinkedIn](https://www.linkedin.com/in/juan-matheus-nunes-b33b89196)
 
 ---
